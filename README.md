@@ -255,11 +255,11 @@ Hospital-Analysis-Dashboard
 
 # Author
 
-Abhishek Mishra
+**Abhishek Mishra**
 
- Email: abhhishek0101@gmail.com
+ Email: **abhhishek0101@gmail.com**
 
- LinkedIn: https://linkedin.com/in/abhishek-mishra-ba80b1307
+ LinkedIn: **https://linkedin.com/in/abhishek-mishra-ba80b1307**
 
  GitHub: **https://github.com/abhhishek0101-m**
 
