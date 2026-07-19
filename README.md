@@ -1,4 +1,4 @@
-# 🏥 Hospital Analysis Dashboard
+# Hospital Analysis Dashboard
 
 <p align="center">
   <img src="Hospital_Analysis_Dashboard.png" width="100%">
@@ -14,17 +14,17 @@ Interactive Business Intelligence Dashboard for Hospital Operations, Patient Ana
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
-The **Hospital Analysis Dashboard** is an end-to-end Business Intelligence solution developed to analyze hospital operations using modern data analytics tools.
+The Hospital Analysis Dashboard is an end-to-end Business Intelligence solution developed to analyze hospital operations using modern data analytics tools.
 
-The project begins with importing raw hospital data into a **MySQL** database. To improve reporting performance and simplify analysis, **SQL Views** were created to remove unnecessary columns and prepare clean analytical datasets. These views were connected to **Power BI** through an **ODBC** connection, followed by data transformation in **Power Query**, data modeling, and **DAX** calculations to build an interactive multi-page dashboard.
+The project begins with importing raw hospital data into a **MySQL database**. To improve reporting performance and simplify analysis, **SQL Views** were created to remove unnecessary columns and prepare clean analytical datasets. These views were connected to **Power BI** through an **ODBC** connection, followed by data transformation in **Power Query**, data modeling, and **DAX** calculations to build an interactive multi-page dashboard.
 
 This project demonstrates the complete analytics lifecycle—from database design to business reporting.
 
 ---
 
-# 🚀 Project Workflow
+#  Project Workflow
 
 ```text
                    Raw Hospital Dataset
@@ -56,7 +56,7 @@ This project demonstrates the complete analytics lifecycle—from database desig
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -71,15 +71,15 @@ This project demonstrates the complete analytics lifecycle—from database desig
 
 ---
 
-# 📊 Dashboard Preview
+#  Dashboard Preview
 
-## 🏠 Home
+##  Home
 
 <img src="Hospital_Analysis_Dashboard.png">
 
 ---
 
-## 📈 Overview Dashboard
+##  Overview Dashboard
 
 Provides a quick summary of hospital performance.
 
@@ -96,7 +96,7 @@ Provides a quick summary of hospital performance.
 
 ---
 
-## 👤 Patient Dashboard
+##  Patient Dashboard
 
 Patient-level insights and treatment information.
 
@@ -113,7 +113,7 @@ Patient-level insights and treatment information.
 
 ---
 
-## 👨‍⚕️ Doctor Dashboard
+##  Doctor Dashboard
 
 Analyzes doctor performance and commission.
 
@@ -129,7 +129,7 @@ Analyzes doctor performance and commission.
 
 ---
 
-## 🏥 Hospital Dashboard
+##  Hospital Dashboard
 
 Operational analysis of hospital activities.
 
@@ -145,7 +145,7 @@ Operational analysis of hospital activities.
 
 ---
 
-## 💰 Finance Dashboard
+##  Finance Dashboard
 
 Financial performance analysis.
 
@@ -162,7 +162,7 @@ Financial performance analysis.
 
 ---
 
-# 💾 Database & SQL Work
+#  Database & SQL Work
 
 This project uses MySQL as the backend database.
 
