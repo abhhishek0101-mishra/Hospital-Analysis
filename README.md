@@ -1,5 +1,5 @@
 # Hospital Analysis Dashboard
-
+Developed an end-to-end Hospital Analysis Dashboard using Power BI, integrating MySQL data through ODBC, with SQL Views, Power Query, and DAX for data preparation and KPI development
 <p align="center">
   <img src="Hospital_Analysis_Dashboard.png" width="100%">
 </p>
